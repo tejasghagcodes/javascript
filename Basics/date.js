@@ -25,6 +25,7 @@ day3.toLocaleString('default',{
     weekday:"short",
     month:"long"
 })
+//
 
 
 
